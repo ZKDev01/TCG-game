@@ -1,3 +1,3 @@
 # TCG-game
 
-Ejecución: `py main.py`
+Ejecución: `py app.py`
